@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=tab, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+<!-- Start BAR -->
+
+    <table style="border: 0px; background: #a9c2d0;width: 100%; height: 70px;">
+        <tr>
+            <td>
+                <table border="0" width="85%" align="center" cellpadding="13">
+                    <td style="font-size: 32px;"><font><b>Huzaifa Saran</b></font></td>
+                    <td width="25%"></td>
+                    <td style="font-size: 20px;"><a href="#" </td>Home</a>
+                    <td style="font-size: 20px;"><a href="#">Services</td></a>
+                    <td style="font-size: 20px;"><a href="#">Skills</td></a>
+                    <td style="font-size: 20px;"><a href="#">Education</td></a>
+                    <td style="font-size: 20px;"><a href="#">Contact</td></a>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+    <!-- END BAR -->
+
+    <!-- Start Main -->
+
+<table>
+    <tr>
+        <td>
+            <table width="85%" align="center" cellpadding="15px" >
+                <td>
+                    <h1 style="font-size: 40px;"><font><b>Hi!</b></font></h1>
+                    <h1 style="font-size: 40px;"><font><b>Its Huzaifa Saran</b></font></h1>
+                    <!-- <h3 style="font-size: 30px;"><font><b></b></font></h3>  -->
+               <font style="font-size: medium;"><b>An Emerging Software Developer and Engineer</b></font>
+               <p><b>Student of BS Software Engineering in University of Agriculture Faisalabad Also know Python to a Good level.</b></p>
+               <hr width="550px">
+                    <!-- <td width="100x"></td>
+                    <td width="100x"></td>
+                    <td width="100x"></td> -->
+
+                    <!-- Image adding -->
+                   </td> <td>
+               <img width="530" height="500px" src="112.webp" alt="">
+               </td> 
+            </table>
+        </td>
+    </tr>
+
+</table>
+
+<!-- END Main -->
+
+<!-- Start Services -->
+
+    <table style="width: 100%;" cellpadding="15px">
+        <tr>
+            <td>
+                <table style="border: 10px; background: #ffffff;width: 100%; height: 200px;">
+                    <tr>
+                        <td></td>
+                        <td align="center">
+                        <font style="font-size: 40px; ">Services</font>
+                        <font><p>These are My Services</p></font>
+                        <hr width="200px">
+
+                        </td>
+                        <td></td>
+                    </tr>
+                    <tr align="center">
+                    <br><br><br><br>
+                    <td><img width="170px" height="170px" src="app.jpg" alt=""><font style="font-size: 120%;"><br><b>App Development</b></font>
+                    <p>Languages for App Development are Flutter Java Swift </p></td>
+                    <td><img width="170px" height="170px" src="web.jpg" alt=""> <font style="font-size: 120%;"><br><b>Web Development</b></font>
+                    <p>Languages for Web Development are HTML CSS JavaScript Python</p></td>
+                    <td><img width="170px" height="170px" src="design.jpg" alt=""><font style="font-size: 120%;"><br><b>Canva Designing </b></font>
+                    <p>Designing Images Resumes and other Documents Smartly.</p></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+    <!-- End Services -->
+
+    <!-- Start Skills -->
+
+<table width="100%" height="100%">
+<tr>
+<td>
+    <br><br><br><br>
+<table width="100%" height="250px" bgcolor="#25282f">
+    <td align="center">
+        <font style="color: rgb(255, 255, 255) ; font-size: 250%;">Skills</font>
+    <hr width="250">
+
+    <tr>
+        <td align="center"> <label> <font size="5" color="#fff"> HTML5 </font></label> <br><progress value="95" max="100">95% </progress> </td>
+        <td> <label> <font size="5" color="#fff"> CSS3 </font></label> <br><progress value="85" max="100">85% </progress> </td>
+        </tr>
+    <tr>
+        <td align="center"><label for=""><font size="5" color="#fff">Python</font><br></label><progress value="65" max="100"></progress></td>
+        <td><label for=""><font size="5" color="#fff">C++</font><br></label><progress value="55" max="100"></progress></td>
+
+    </tr>
+    </td>
+</table>
+</td>
+</tr>
+</table>
+
+    <!-- End Skills -->
+
+    <!-- Start Meet the Team -->
+
+<table style="width: 100%;" cellpadding="15px">
+        <tr>
+            <td>
+                <table style="border: 10px; background: #ffffff;width: 100%; height: 200px;">
+                    <tr>
+                        <td></td>
+                        <td align="center">
+                        <font style="font-size: 40px; ">Meet the Team</font>
+                        <!-- <font><p>These are My Services</p></font> -->
+                        <hr width="50%">
+
+                        </td>
+                        <td></td>
+                    </tr>
+                    <tr align="center">
+                    <br><br><br><br>
+                    <td><img width="170px" height="170px" src="huzaifa.jpg" alt=""><font style="font-size: 120%;"><br><b>Huzaifa Saran</b></font></td>
+                    <td><img width="170px" height="170px" src="ahmad.jpg" alt=""> <font style="font-size: 120%;"><br><b>Ahmad Nadeem</b></font></td>
+                    <td><img width="170px" height="170px" src="awais.jpg" alt=""><font style="font-size: 120%;"><br><b>Awais Afzal</b></font></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+<!-- End Meet the Team -->
+
+<!--Start Contact form -->
+
+<form>
+    <table bgcolor="#0987" border="0" width="100%" align="center" cellpadding="15">
+        <tr>
+            &nbsp;
+           
+            <td>
+                <br><br><br><br>
+                <table align="center" >
+                    <tr align="center">
+                        <td colspan="3">
+                        <font size="8">Contact Us</font>
+                        <hr align="center" width="43%" color="black"></td>
+                    <tr>
+                        <td> <font size="4" color="#fff">Name: </font> </td>
+                        <td> <input type="text"> </td>
+
+                    </tr>
+                    <!-- <br>
+                    <br> -->
+                        <tr >
+                            <td> <font color="#fff">Mobile: </font> </td>
+                            <td> <input type="number"> </td>
+                            </tr>
+                            <tr>
+                            <td> <font color="#fff"> Message : </font> </td>
+                            <td> <textarea cols="21" rows="5"> </textarea> </td>
+                            </tr>
+                            <tr align="center">
+                                <td colspan="2"> <input type="submit">  </td>
+                                </tr>  
+                                </table><br><br><br><br>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</form>
+
+<!-- End Contact form -->
+
+<!--Start Footer form -->
+
+<table style="width: 100%;" cellpadding="15px">
+    <tr>
+        <td>
+            <table style="border: 10px; background: #ffffff;width: 100%; height: 200px;">
+                <tr>
+                    <td></td>
+                </tr>
+                <tr align="center">
+                <br><br><br><br>
+                <td><img width="170px" height="170px" src="mobile.webp" alt=""><font style="font-size: 120%;"><br><b>Ph No: 03256172397</b></font></td>
+                <td><img width="170px" height="170px" src="gmail-logo-1.webp" alt=""> <font style="font-size: 120%;"><br><b>huzaifasaran0@gmail.com</b></font></td>
+                <td><img width="170px" height="170px" src="location.jpg" alt=""><font style="font-size: 120%;"><br><b>Faisalabad Pakistan</b></font></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table  width="100%">
+<!-- End Footer -->
+<!--Start Last Bar -->
+<table bgcolor="black" align="center" width="100%">
+<tr align="center">
+    <td>
+        <table>
+            <td ><font color="white">copyright @ 2023 | Huzaifa Saran</font></td>
+        </table>
+    </td>
+</tr>
+</table>
+
+<!-- End Last Bar -->
+
+</body>
+</html>
